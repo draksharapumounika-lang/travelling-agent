@@ -1,0 +1,6 @@
+{
+  "name": "Wanderlust AI - Intelligent Travel Agent & Itinerary Planner",
+  "description": "Custom day-by-day travel itineraries, budget breakdowns, insider tips, packing lists, and real-time AI travel concierge powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
